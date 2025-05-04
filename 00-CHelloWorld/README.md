@@ -1,3 +1,4 @@
 Compilador: gcc
-Version: 6.3.0-1
+Version: 14.2.0
+Versión de C: C2x
 
